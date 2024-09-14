@@ -17,3 +17,5 @@ print(f'I am {age} years old')
 print("Hello\nworld")
 # right strip ignore spaces from right
 print("my name is ",name.rstrip(),".")
+ # To write constant use all caps
+PI = 3.14
