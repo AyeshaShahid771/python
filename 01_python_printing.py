@@ -4,7 +4,7 @@
 print("Hello, World!")
 first_name="Ayesha" ## first_name is a string
 print(first_name)
-
+print(f'"hello {first_name}"')
 
 ### 2- Printing Multiple Items:
 last_name= " Shahid " ## last_name is a string

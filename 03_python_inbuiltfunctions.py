@@ -11,6 +11,10 @@ msg1 : str ="Bye"
 print(msg1)
 #3. Personal Message
 name : str ="Ayesha"
+#3a. Using type function
+print(type(name)) # type of string
+print(type(123))  # type of int 
+print(type(12.3))# type of float 
 print(f"Hello {name} , would you like to learn python with me?")
 #4. Name Cases
 name : str = "Ayesha shahid"
@@ -30,6 +34,9 @@ print(greeting)
 print(greeting.lstrip())
 print(greeting.rstrip())
 print(greeting.strip())
+#to round off numbers
+num= 123.453
+print(round(num,2))
 #8. Variable Sum
 x : int =5
 y :int =10
@@ -47,6 +54,8 @@ b=temp
 print(f"After swapping a={a} and b={b}")
 #10. Favorite Color
 fav_clr :str ="black"
+# for length of string
+print(len(fav_clr))
 print(f"My favorite color is {fav_clr}")
 clr :str = fav_clr
 print(f"My favorite color is {clr}")

@@ -4,6 +4,9 @@
 name : str # declaration
 name = "Ayesha shahid    " # initialization
 print (name)
+# for multiline string use triple quotes
+name = """ Ayesha
+       Shahid"""
 age :int =18
 height : float =5.7
 status : bool = True
