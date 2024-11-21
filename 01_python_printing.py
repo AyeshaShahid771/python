@@ -1,5 +1,11 @@
 #Name =Ayesha Shahid
-#roll no = PIAIC245513
+
+
+#### if you are giving a string in print function it should be in inverted commas
+#### if you are giving a int variable in print function it should be without inverted commas
+#### if you are giving a  float variable in print function it should be without inverted commas
+#### You could also print multiple variables of different data types by separating them with a comma
+
 #1 - Basic Printing
 print("Hello, World!")
 first_name="Ayesha" ## first_name is a string
